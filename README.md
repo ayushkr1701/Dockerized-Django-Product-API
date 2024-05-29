@@ -68,7 +68,7 @@ There are five API endpoints which have different functions:
     }
 
  
-##### 5. Similarly we can test for other endpoints as well, just select the respective method and change the url as http://0.0.0.0:8000/<endpoint>
+##### 5. Similarly we can test for other endpoints as well, just select the respective method and change the url as http://0.0.0.0:8000/(endpoint)
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
