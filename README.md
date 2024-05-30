@@ -32,7 +32,7 @@ There are five API endpoints which have different functions:
 ##### Python 3.10
 
 ### How to run:
-##### 1. Clone the repo to your local machine by running command : git clone 
+##### 1. Clone the repo to your local machine by running command : git clone https://github.com/ayushkr1701/Dockerized-Django-Product-API
 ##### 2. Make sure you're in the root directory.
 ##### 3. Now run the command: docker-compose build
 ##### 4. And then run: docker-compose up
